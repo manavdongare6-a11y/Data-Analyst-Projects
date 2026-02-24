@@ -1,0 +1,4 @@
+This project particularly focuses on cleaning data in SQL of layoffs of various companies
+In this project, I have had to clear out duplicates, populate various missing fields, make the data useable
+verify its correctness and ensure that when I am done with the project anyone can come in and understand and use 
+the data effectively.
