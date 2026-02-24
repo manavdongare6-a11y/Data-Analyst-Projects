@@ -1,0 +1,5 @@
+So this was a project which included a multitude of languages and softwares and something that really challenged my understanding of the Data analysis world.
+Firstly I had to begin by cleaning the data in Excel (100k rows), which included making sure that the data and time was correct, no negative values were present for pricings or ratings etc.
+Then I had to answer a few business questions about this project in a Separate SQL file, questions pertaining to who are the btop 5 customers, what are the common reasons for cancellations etc.
+And then finally I had to visualise everything in Power BI.
+This project really gave me a feel for data analysis and how it feels to work across softwares to solve problems
