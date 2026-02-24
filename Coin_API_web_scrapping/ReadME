@@ -1,0 +1,3 @@
+So this was a more advanced application of the web scrapping concept done by me earlier with wikipedia
+In this project i had to firstly get the data from CoinmarketCap about several crypto currencies, to get that data I had to use the custom api provided by them
+and then I had to perform several steps in pandas in a jupyter notebook environment to clean the data, visualise it and then store it in a seperate excel file for later use.
